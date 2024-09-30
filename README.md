@@ -30,6 +30,9 @@ You can install these dependencies using pip:
 ```sh
 pip install scipy numpy imageio matplotlib opencv-python-headless scikit-image
 ```
+```sh
+Dataset: TM-DIED - 222 JPEG photos constituting some of the most challenging cases for image enhancement and tone-mapping algorithms
+```
 
 ## Usage
 
